@@ -1,0 +1,33 @@
+{
+  "name": "styles-cleaner",
+  "version": "1.0.0",
+  "description": "Styles cleaning tool",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carlosyasu91/styles-cleaner.git"
+  },
+  "keywords": [
+    "css",
+    "styles",
+    "cleaner",
+    "automatic"
+  ],
+  "author": "Yasu Flores",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/carlosyasu91/styles-cleaner/issues"
+  },
+  "homepage": "https://github.com/carlosyasu91/styles-cleaner#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0"
+  },
+  "dependencies": {
+    "bluebird": "^3.5.0",
+    "underscore": "^1.8.3"
+  }
+}
